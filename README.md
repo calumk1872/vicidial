@@ -1,0 +1,2 @@
+# vicidial
+vicidial chatgpt project
